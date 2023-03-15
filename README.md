@@ -1,0 +1,2 @@
+# YC-MANUAL
+YDA CRISIS設営マニュアル
