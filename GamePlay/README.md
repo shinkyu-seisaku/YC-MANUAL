@@ -5,7 +5,7 @@ YDA CRISISプレイの一連の流れを解説します。
 - [2. 照準キャリブレーションについての詳しい解説](./README.md#2-照準キャリブレーションについての詳しい解説)
 
 &nbsp;<br>
-ⓘ <a href="https://github.com/shinkyu-seisaku/YC-MANUAL/releases/latest">`YDA_CRISIS.zip`</a>をダウンロード後、exeファイルを実行してください。<br>
+ⓘ <a href="https://github.com/shinkyu-seisaku/YC-MANUAL/releases/latest">`YDA_CRISIS.zip`</a>DL & 展開後、exeファイルを実行してください。<br>
 ⓘ グラフィックドライバーを最新のものにして実行してください
 ##
 
